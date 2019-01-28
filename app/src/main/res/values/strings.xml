@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Get Your Location</string>
+    <string name="provider_gps">GPS</string>
+    <string name="provider_network">Network</string>
+    <string name="Location_settings">Location Settings</string>
+
+    <string name="google_maps_api_key">AIzaSyBrls8lOFYWJjpfdFD5S_iR3b7p3_tPONo</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
